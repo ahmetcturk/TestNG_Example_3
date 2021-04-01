@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Test2 {
+public class Test3 {
 	// In this example, we will go to a webpage and check different functionalities
 	
 	public WebDriver driver;
